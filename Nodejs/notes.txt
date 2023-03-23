@@ -1,0 +1,4 @@
+mongodb+srv://kishorguriti119:nDmjYwBBCP9hnMRD@cluster0.szou9uk.mongodb.net/Ecommerce?retryWrites=true&w=majority
+
+
+mangooes pasw: nDmjYwBBCP9hnMRD
